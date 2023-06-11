@@ -7,8 +7,8 @@ This repository contains Python script that can be used to download and load NYC
 
 ## Prerequisites
 
-* Python 3.6 or higher
-* MySQL 5.6 or higher
+* Python 3.10.5 or higher
+* MySQL 5.7 or higher
 * The `requests`,`pandas`,`os`,`sqlalchemy`,`dotenv` Python libraries
 
 ## How to use
