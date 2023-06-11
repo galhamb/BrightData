@@ -1,0 +1,11 @@
+# This file lists all of the Python packages that are required for this project.
+# To install all of the packages, run `pip install -r requirements.txt`.
+
+
+pandas==1.4.2
+requests==2.28.0
+sqlalchemy==1.4.39
+os
+dotenv
+
+
