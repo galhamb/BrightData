@@ -1,5 +1,5 @@
 due to time constraints the solution is not optimized.
-performance improvement is needed. 
+performance improvements are needed. 
 for example :
  1. incremental loading instead truncate/insert
  2. working with pyspark instead of pandas - include adding partitions and work in parallel.
